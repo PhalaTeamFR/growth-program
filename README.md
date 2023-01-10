@@ -1,127 +1,130 @@
-# Phala Ambassador Program
-> 📢 This program is tracked transparently on GitHub.
+# phala-programme-ambassadeur
+> 📢 Ce programme est suivi de manière transparente sur GitHub.
 ![Phala_type_grn (1)](https://user-images.githubusercontent.com/39883171/177120886-1cee7f65-b73d-4987-89fd-7cbe1038f85e.png)
-# Ambassador Program
+# Programme Ambassadeur
 
-## Overview
+## Aperçu
 
-Phala ambassadors are an extension of our community team. They’re passionate community members, who are rewarded for volunteering to perform marketing, community, and content related tasks. 
+Les ambassadeurs Phala sont une extension de notre équipe chargée de la communauté. Ce sont des membres passionnés de la communauté, qui sont récompensés pour s'être portés volontaires pour effectuer des tâches liées au marketing, au développement de la communauté et au contenu. 
 
-At Phala, we are focused on creating the best possible community and our ambassadors play a major role in acting as a bridge between Phala and the communities around the world.
+Chez Phala, nous nous efforçons de créer la meilleure communauté possible et nos ambassadeurs jouent un rôle majeur en servant de lien entre Phala et les communautés du monde entier.
 
-If you meet our criteria, and are interested in becoming part of the phamily, please fill out the following 
-[application](https://forms.gle/aJwXywgHuU9Xek4z5). May Phala be with you! 🤘
+Si vous répondez à nos critères et que vous souhaitez faire partie de la phamille, veuillez remplir le formulaire ci-dessous. 
+[application](https://forms.gle/aJwXywgHuU9Xek4z5). Que Phala soit avec vous ! 🤘
 
+## Critères :
 
-## Criteria:
-
-- Strong understanding of Phala's vision, products, and latest developments.
-- You’re an active member of our community and understand its culture. 
-- Experienced in either marketing, community management or content creation.
-- Able to communicate in english at an advanced or native level.
-- You’re passionate, patient, proactive, supportive, a quick learner and have strong communication skills. 
+- Bonne compréhension de la vision, des produits et des derniers développements de Phala.
+- Vous êtes un membre actif de notre communauté et vous comprenez sa culture. 
+- Expérience dans le marketing, la gestion de communauté ou la création de contenu.
+- Capacité à communiquer en anglais à un niveau avancé ou de langue maternelle.
+- Vous êtes passionné(e), patient(e), proactif(ve), vous apportez votre soutien, vous apprenez rapidement et vous avez de solides compétences en matière de communication.
 
 ## Expectations:
 
-- Grow and nurture our community.
-- Closely follow Phala’s latest news and events.
-- Co-create a fun, supportive and collaborative environment for our ambassador team.
-- A passion for educating the Web3 community about Phala's ecosystem.
-- Play a key role in our marketing, community management and content creation efforts.
-
+- Développer et encourager notre communauté.
+- Suivez de près les dernières nouvelles et les événements de Phala.
+- Co-créer un environnement amusant, supportant et collaboratif pour notre équipe d'ambassadeurs.
+- Une passion pour l'éducation de la communauté Web3 sur l'écosystème de Phala.
+- Jouer un rôle clé dans nos efforts de marketing, de gestion de la communauté et de création de contenu.
 
 ## Benefits:
 
-1. Monthly rewards – receive $PHA for completing specific tasks.
-2. Result-based bonuses – earn extra $PHA for surpassing our monthly targets.
-3. Promotional rewards – earn swag boxes, hardware mining-nodes and more for successfully rising through our ambassador ranks.
-4. Unique NFTs – collect limited edition Phala branded NFTs that are reserved only for our ambassadors.
-5. Networking opportunities – work alongside Phala’s core team and attend local events and conferences that are sponsored by the team.
-6. Mentorship & guidance – refine your skills and develop real-world experience in Web3.
-7. Recognition & influence - build a reputation, and maybe even a future career for yourself.
-8. Exclusive access – be the first to know about Phala’s official releases and upcoming product features. 
+1. Récompenses mensuelles - recevez des $PHA pour avoir accompli des tâches spécifiques.
+2. Primes basées sur les résultats - gagner des $PHA supplémentaires pour avoir dépassé nos objectifs mensuels.
+3. Récompenses promotionnelles - gagnez des coffrets cadeaux, des nœuds de minage (matériels) et bien d'autres choses encore en gravissant avec succès les échelons de nos ambassadeurs.
+4. NFT uniques - collectez des NFT de marque Phala en édition limitée, réservés uniquement à nos ambassadeurs.
+5. Opportunités de networking - travaillez aux côtés de l'équipe principale de Phala et participez à des événements locaux et à des conférences qui sont sponsorisés par l'équipe.
+6. Mentorat et conseils - affinez vos compétences et développez une expérience réelle dans Web3.
+7. Reconnaissance et influence : bâtissez-vous une réputation, et peut-être même une future carrière.
+8. Accès exclusif - soyez le premier à être informé des sorties officielles de Phala et des fonctionnalités des produits à venir.
 
-## Evaluation:
-- We value early supporters of the program.
-- We value your area of expertise.
-- We value your experience with community management.
-- We value your commitment to the program.
-- We value the impact of your existing and future contributions to the ecosystem.
-- We value transparency in the nature of your work and contributions.
-- We value your ability to work with other candidates, ambassadors and community members.
-- We value your efforts in growing an active community that wants to see Phala succeed.
-- We value your referrer and your future referrals.
+## Évaluation :
+- Nous apprécions les premiers supporters du programme.
+- Nous apprécions votre domaine d'expertise.
+- Nous apprécions votre expérience en matière de gestion communautaire.
+- Nous apprécions votre engagement envers le programme.
+- Nous apprécions l'impact de vos contributions actuelles et futures à l'écosystème.
+- Nous apprécions la transparence dans la nature de votre travail et de vos contributions.
+- Nous apprécions votre capacité à travailler avec d'autres candidats, ambassadeurs et membres de la communauté.
+- Nous apprécions vos efforts pour développer une communauté active qui veut voir Phala réussir.
+- Nous apprécions votre recommandation et vos futures recommandations.
 
-## Apply Now
-[Click here to apply!](https://forms.gle/aJwXywgHuU9Xek4z5)
+## Postulez maintenant
+[Cliquez ici pour postuler !](https://forms.gle/aJwXywgHuU9Xek4z5)
 
+# Comment fonctionne le programme des ambassadeurs ?
 
-# How does the ambassador programme work?
+## Version.3 actuellement - mis à jour en décembre 2022
 
-## Currently V.3 - updated December 2022
+**1.	Tâches :**
 
-1.	Tasks:
--	Both mandatory and supplementary tasks are available.
--	ALL mandatory tasks must be completed monthly.
--	Supplementary tasks are optional but encouraged.
--	Mandatory tasks will vary, depending on your chosen departments.
-- You must choose two departments: marketing, community or content.
--	A maximum of 2 different supplementary tasks can be completed, per month.
+- Des tâches obligatoires et supplémentaires sont disponibles.
+- TOUTES les tâches obligatoires doivent être accomplies chaque mois.
+- Les tâches supplémentaires sont facultatives mais encouragées.
+- Les tâches obligatoires varient en fonction des départements que vous avez choisis.
+- Vous devez choisir deux départements : marketing, communauté ou contenu.
+- Un maximum de 2 tâches supplémentaires différentes peut être accompli, par mois.
 
-2. Points:
+**2. Points :**
 
--	There is a total of 100 points per month.
--	The total amount of points awarded to departments are 80 (80/100). 
--	The total amount of points awarded to supplementary tasks are 20 (20/100). 
--	You can choose the point-weight of each department. For example, if you choose Marketing and Content, Marketing can be worth 90% and Content can be worth 10% of the total available 80 points for departments.  
--	The point-weight of supplementary tasks can vary per month, depending on Phala’s needs. 
+- Il y a un total de 100 points par mois.
+- Le nombre total de points attribués aux départements est de 80 (80/100). 
+- Le nombre total de points attribués aux tâches supplémentaires est de 20 (20/100). 
+- Vous pouvez choisir la répartition des points pour chaque département. Par exemple, si vous choisissez Marketing et Contenu, le Marketing peut valoir 90% et le Contenu 10% du total des 80 points disponibles pour les départements.
+- Le nombre de points des tâches supplémentaires peut varier chaque mois, en fonction des besoins de Phala.
 
-3. Rewards:
--	You need to achieve at least 40% of the total points (40/100) to quality to receive rewards.
--	If you achieve 100%, you will get the full rewards. If you achieve only 50%, you will get half of the full rewards.
--	If there is surplus PHA in a particular month, it will be distributed equally to those who achieved ≥90%.
--	If there is surplus PHA and no one achieves ≥90%, it will be carried forward to the next month.
--	An example of how the calculation works can be found [HERE](https://docs.google.com/document/d/1QsQUwl_pArltaJvJkZ66EUTgNpLyfRgV/edit?usp=sharing&ouid=100574805470537994931&rtpof=true&sd=true).
--	The reward pool comes from the PHA [Treasury](https://khala.subscan.io/account/436H4jat8E3x6whTRudzJFuF1aFqkxmkYyQqNbh9C9EKhcz7). The reward pool may change depending on how much it is getting. The reward pool may change depending on how much it is getting.
+**3. Récompenses :**
 
-4. Ambassador hierarchy: 
--	Our structure: advocate, candidate, ambassador, senior ambassador, and head ambassador.
--	All successful applicants to our ambassador programme will begin as either an advocate or a candidate. 
--	Your starting position will depend on how well your application meets our criteria: skillsets, experience, knowledge of Phala and your standard of English. 
+- Vous devez atteindre au moins 40 % du total des points (40/100) pour avoir la qualité nécessaire pour recevoir des récompenses.
+- Si vous atteignez 100%, vous obtiendrez la totalité des récompenses. Si vous n'atteignez que 50 %, vous obtiendrez la moitié des récompenses complètes.
+- S'il y a un surplus de PHA au cours d'un mois donné, il sera distribué de manière égale à ceux qui ont atteint ≥90%.
+- S'il y a un surplus de PHA et que personne n'atteint ≥90%, il sera reporté au mois suivant.
+- Un exemple du fonctionnement du calcul peut être trouvé 
+[ICI](https://docs.google.com/document/d/1govsc4Itor-jk97Nhjf8SaI8L_T_VKnnGYJpCweNzPg/edit?usp=sharing).
+-	La pool de récompense provient de la [trésorerie](https://khala.subscan.io/account/436H4jat8E3x6whTRudzJFuF1aFqkxmkYyQqNbh9C9EKhcz7) PHA. Le montant des récompenses peut varier en fonction de l'importance de ces dernières. Le montant des récompenses peut varier en fonction de la quantité de fonds obtenus.
 
-5. Scores:
--	Participation is MANDATORY. Failure to achieve at least 40% points for a period of 3 consecutive months will result in the termination of your ambassadorship.
--	Any ambassador candidates, who reach at least 40% points for a period of 3 consecutive months, will be promoted to the official ambassador position.
--	Any official ambassador, who reaches at least 80% points for a period of 3 consecutive months, will become a Senior Ambassador.
+**4. Hiérarchie des ambassadeurs :**
 
-## Departments
+-	Notre structure : advocate, candidate, ambassador, senior ambassador, and head ambassador.
+-	Tous les candidats retenus dans le cadre de notre programme d'ambassadeurs commenceront soit en tant qu'advocate, soit en tant que candidate.
+-	Votre poste de départ dépendra de la mesure dans laquelle votre candidature répondra à nos critères : compétences, expérience, connaissance de Phala et niveau d'anglais. 
 
-All ambassadors must select 2/3 of the following departments.
+**5. Scores :**
 
-| ID  | Description | Required Quantity  | KPI | Max Points |
+-	La participation est OBLIGATOIRE. Si vous n'atteignez pas au moins 40 % des points pendant une période de trois mois consécutifs, votre statut d'ambassadeur prendra fin.
+-	Tout candidat ambassadeur qui atteint au moins 40% de points pendant une période de 3 mois consécutifs sera promu au poste d'ambassadeur officiel.
+-	Tout ambassadeur officiel qui atteint au moins 80 % de points pendant une période de 3 mois consécutifs deviendra ambassadeur senior.
+
+## Départements
+
+Tous les ambassadeurs doivent choisir 2/3 des départements suivants.
+
+| ID  | Description | Quantité requise  | KPI | Max Points |
 |  :---:  |  ---  |  :---:  |  :---:  |  :---:  |
-| MK | Marketing: co-create and execute marketing strategies and host online or offline promotional events. The goals of this department are to increase engagement, community growth, product usage and brand awareness. | Daily | Quality & consistency |  VAR |
-| CM | Community: nurture, support and manage your local and our global Phala community. The goals of this department are to engage, monitor and retain users whilst cocreating a culture that best serves Phala’s vision, brand, and community.| Daily | Quality & consistency |  VAR |
-| CC | Content: supply other departments with a variety of content which excites, educates, converts, or reassures community members. The goal of this department is to  facilitate deeper conversations and connections within and outside of our community. | Daily | Quality & consistency |  VAR |
+| **MK** | ***Marketing :*** co-créer et exécuter des stratégies de marketing et accueillir des événements promotionnels en ligne ou hors ligne. Les objectifs de ce département sont d'accroître l'engagement, la croissance de la communauté, l'utilisation des produits et la notoriété de la marque. | Quotidiennement | Qualité et cohérence |  VAR |
+| **CM** | ***Community :*** Développer, supporter et gérer votre communauté Phala locale et mondiale. Les objectifs de ce département sont d'engager, de surveiller et de retenir les utilisateurs tout en créant une culture qui sert au mieux la vision, la marque et la communauté de Phala.| Quotidiennement | Qualité et cohérence |  VAR |
+| **CC** | ***Content :*** fournir aux autres départements un contenu varié qui stimule, éduque, convertit ou rassure les membres de la communauté. L'objectif de ce département est de faciliter des conversations et des connexions plus profondes au sein et en dehors de notre communauté. | Quotidiennement | Qualité et cohérence |  VAR |
 
+## Tâche supplémentaire (Choisissez jusqu'à 2 tâches/mois)
 
-## Supplementary Task (Choose up to 2 tasks/month)
-
-| ID  | Description | Required Quantity  | KPI | Max Points |
+| ID  | Description | Quantité requise  | KPI | Max Points |
 |  :---:  |  ---  |  :---:  |  :---:  |  :---:  |
-| PM | The promoter: promote Phala across relevant social media platforms. | 5 per month  | Reach & engagement | 10 |
-| HD | Help Desk: assist our community by answering their questions and sharing helpful resources. | 5 per month  | Speed & effectiveness  | 10 |
-| RC | The Recruiter: create awareness about our ambassador programme, both within our own community and other relevant communities. Please tell applicants to list you as their referer. | 5 per month  | Quantity & quality | 20 |
-| CC  | The Content Creator: Write an article (at least 800 words) per week, translate an article (that is over 1k words) per week or make a maximum 10 minutes length of video about Phala Network per week. Content has to be ORIGINAL.  | 2 per month  | Quality & Reach  | 10 |
-| TT  | The Tutor: Write a how-to tutorial in your own words.  | 1 per month  | Quality & Reach  | 10 |
-| BH  | The Bughunter: Find bugs on any of Phala platforms. It can be a typo, grammar or technical bugs. Bugs need to be reported on Github issue and please go through all the existing issues to find if the bug has been reported.  | 5-10 bugs a month  | Quality  | 10 |
-| EM  | The Event Manager: Organize an online/physical meetup/AMA with your local community. Plan ahead and please reach out to us if you need financial support. It is best to record the meetup session.  | 1 per month  | Quality & Engagement  | 10 |
-| BD  | The Business Developer: Reach out to projects to build on Phala Network. You have to be able to pitch about Phala before handing over the project to Marvin or Shelven and Will. Special bonus will be given when it is a native Phala project (which means they previously have never launched on any other chains).  | 1 per month  | Quality & Success  | 10 |
-| ART  | The Artist: This can be infographic, animated logo, sticker packs, music, movie, NFT etc. The creativity is your limit. Bonus will be given for outstanding work which will be accepted for official use.  | 1 per month  | Quality  | 10 |
-| DEV  | The Developer: Development work and coding. Please reach out to us before proceeding with the task.  | TBD  | TBD  | TBD |
+| **PM** | ***The promoter :*** promouvoir Phala sur les plateformes de médias sociaux pertinentes. | 5 par mois  | Portée et engagement | 10 |
+| **HD** | ***Help Desk :*** aider notre communauté en répondant à ses questions et en partageant des ressources utiles. | 5 par mois  | Rapidité et efficacité  | 10 |
+| **RC** | ***The Recruiter :*** faire connaître notre programme d'ambassadeurs, tant au sein de notre propre communauté que d'autres communautés concernées. Veuillez dire aux candidats de vous citer comme référent. | 5 par mois  | Quantité et qualité | 20 |
+| **CC**  | ***The Content Creator :*** Écrire un article (d'au moins 800 mots) par semaine, traduire un article (de plus de 1 000 mots) par semaine ou réaliser une vidéo de 10 minutes maximum sur le réseau Phala par semaine. Le contenu doit être ORIGINAL.  | 2 par mois  | Qualité et portée  | 10 |
+| **TT**  | ***The Tutor :*** Rédigez un tutoriel avec vos propres mots. | 1 par mois | Qualité et portée | 10 |
+| **BH**  | ***The Bughunter :*** Trouvez des bugs sur l'une des plateformes Phala. Il peut s'agir d'une faute de frappe, de grammaire ou de bugs techniques. Les bugs doivent être signalés sur Github issue et s'il vous plaît passer par tous les problèmes existants pour trouver si le bug a été signalé.  | 5-10 bugs par mois  | Qualité  | 10 |
+| **EM**  | ***The Event Manager :*** Organisez une rencontre en ligne/physique/AMA avec votre communauté locale. Planifiez à l'avance et contactez-nous si vous avez besoin d'un support financier. Il est préférable d'enregistrer la session de rencontre. | 1 par mois | Qualité et engagement | 10 |
+| **BD**  | ***The Business Developer :*** Rejoignez les projets pour développer le réseau Phala. Vous devez être capable de présenter Phala avant de confier le projet à Marvin ou Shelven et Will. Un bonus spécial sera accordé lorsqu'il s'agit d'un projet Phala natif (ce qui signifie qu'il n'a jamais été lancé sur une autre chaîne).  | 1 par mois  | Qualité et succès  | 10 |
+| **ART**  | ***The Artist :*** Il peut s'agir d'une infographie, d'un logo animé, de packs d'autocollants, de musique, de films, de NFT, etc. La créativité est votre limite. Un bonus sera accordé pour les travaux exceptionnels qui seront acceptés pour une utilisation officielle.  | 1 par mois  | Qualité  | 10 |
+| **DEV**  | ***The Developer :*** Travail de développeur et programmation. Veuillez nous contacter avant de procéder à cette tâche.  | TBD  | TBD  | TBD |
 
-> For any other types of contribution that is not listed above, please reach out to the team.
-#### Please submit your contribution by creating an issue on this repository latest by the 3rd day of the following month. Any late submission will not be accepted.
+
+> Pour tout autre type de contribution qui ne figure pas dans la liste ci-dessus, veuillez contacter l'équipe.
+#### Veuillez soumettre votre contribution (en anglais) en créant une issue sur le repository au plus tard le 3ème jour du mois suivant. Toute soumission tardive ne sera pas acceptée.
+
 _Report Format Example_
 ```
 Title: June 2022 Contribution - {your #discord ID}
@@ -145,4 +148,4 @@ TT - Wrote a tutorial
 [link to tutorial and statistics screenshot]
 ```
 
-_The reward is viewable on this [SPREADSHEET](https://docs.google.com/spreadsheets/d/1btEBrHLp973aLkkbAzrdp38ymjc1Eyht/edit?usp=sharing&ouid=108223921172009155919&rtpof=true&sd=true)._
+_Les récompenses sont visibles sur ce [SPREADSHEET](https://docs.google.com/spreadsheets/d/1btEBrHLp973aLkkbAzrdp38ymjc1Eyht/edit?usp=sharing&ouid=108223921172009155919&rtpof=true&sd=true)._
